@@ -1,9 +1,9 @@
-title: Researcher
+title: Navpreet Singh
 url: "https://ankitsultana.com"
-baseurl: "/personal-site"
+baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./mit_logo.png"
 
 remote_theme: ankitsultana/researcher@gem
 
@@ -22,7 +22,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/personal-site/"
+   link: ""
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
