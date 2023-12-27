@@ -7,6 +7,9 @@ markdown: kramdown
 
 remote_theme: ankitsultana/researcher@gem
 
+plugins:
+- jekyll-remote-theme
+
 tracking_id: #
 
 footer: yes
