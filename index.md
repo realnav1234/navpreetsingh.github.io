@@ -15,7 +15,7 @@ These experiences have not only honed my skills but also fueled my passion for A
 ## Projects 
 ---
 
-<img class="description-photo" src="./projects/stgcn_exploration_project/metrla.png">
+<img class="description-photo" src="./projects/stgcn_exploration_project/metrla.png"/>
 
 ### [Analyzing the Impact of Temporal Data Sparsity on Predictive Accuracy: a Study of Spatio-Temporal Graph Convolutional Networks for Traffic Pattern Modeling](./projects/stgcn_exploration_project/stgcn_exploration_project)
 
@@ -25,7 +25,7 @@ This project investigates the impact of sparse temporal data on the predictive a
 
 ---
 
-<img class="description-photo" src="./projects/rss/racecar.jpg">
+<img class="description-photo" src="./projects/rss/square-racecar.png"/>
 
 ### [Autonomous Racing Robot: Leveraging LiDAR and Computer Vision for Dynamic Path-Planning and Real-Time Obstacle Navigation in Competitive Environments](./projects/rss/rss)
 
@@ -35,6 +35,13 @@ This project encompassed the development of an autonomous race car capable of na
 
 ---
 
+<img class="description-photo" src="./projects/kdtree/kd-tree.png"/>
+
+### [Exploring Accelerated KD-Tree Construction Techniques for Efficient Ray Tracing](./projects/kdtree/kdtree)
+
+*final project for mit course 6.4400 computer graphics*
+
+This project investigates advanced KD-tree construction techniques to enhance ray tracing efficiency, focusing on dynamic scenes where traditional methods are computationally intensive. It implements and analyzes the performance of O(N log N) and O(N log^2 N) SAH-based algorithms.
 
 ## Work Experience
 
