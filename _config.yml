@@ -3,7 +3,7 @@ url: "https://realnav1234.github.io"
 baseurl: "/personal-site/"
 
 markdown: kramdown
-ins_logo: "./mit_logo.png"
+ins_logo: "/personal-site/mit_logo.png"
 
 remote_theme: ankitsultana/researcher@gem
 

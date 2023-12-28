@@ -12,12 +12,19 @@ My journey so far has been a thrilling blend of exploring Natural Language Proce
 These experiences have not only honed my skills but also fueled my passion for AI, Computer Science, and its potential to revolutionize the way we interact with technology.
 
 
-## Projects
+## Projects 
+---
 
-1. **Analyzing the Impact of Temporal Data Sparsity on Predictive Accuracy of Spatio-Temporal Graph Convolutional Networks for Traffic Pattern Modeling** 
-[*details*](stgcn_exploration_project)
+<img class="description-photo" src="./projects/stgcn_exploration_project/metrla.png">
 
-A Study 
+### [*Analyzing the Impact of Temporal Data Sparsity on Predictive Accuracy: A Study of Spatio-Temporal Graph Convolutional Networks for Traffic Pattern Modeling*](./projects/stgcn_exploration_project/stgcn_exploration_project)
+
+This project investigates the impact of sparse temporal data on the predictive accuracy of Spatio-Temporal Graph Convolutional Networks (ST-GCNs) in traffic modeling, addressing a gap in understanding these models' performance under real-world data irregularities.
+
+---
+
+
+
 
 
 ## Work Experience
