@@ -4,7 +4,7 @@ title: Autonomous RACECAR
 ---
 
 # Autonomous Racing Robot 
-## Leveraging LiDAR and Computer Vision for Dynamic Path-Planning and Real-Time Obstacle Navigation in Competitive Environments
+### Leveraging LiDAR and Computer Vision for Dynamic Path-Planning and Real-Time Obstacle Navigation in Competitive Environments
 ---
 
 ## Course Description
