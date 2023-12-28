@@ -15,7 +15,9 @@ These experiences have not only honed my skills but also fueled my passion for A
 ## Projects 
 ---
 
-<img class="description-photo" src="./projects/stgcn_exploration_project/metrla.png"/>
+<a href="./projects/stgcn_exploration_project/stgcn_exploration_project">
+    <img class="description-photo" src="./projects/stgcn_exploration_project/metrla.png"/>
+</a>
 
 ### [Analyzing the Impact of Temporal Data Sparsity on Predictive Accuracy: a Study of Spatio-Temporal Graph Convolutional Networks for Traffic Pattern Modeling](./projects/stgcn_exploration_project/stgcn_exploration_project)
 
@@ -25,23 +27,33 @@ This project investigates the impact of sparse temporal data on the predictive a
 
 ---
 
-<img class="description-photo" src="./projects/rss/square-racecar.png"/>
+<a href="./projects/rss/rss"><img class="description-photo" src="./projects/rss/square-racecar.png"/></a>
 
 ### [Autonomous Racing Robot: Leveraging LiDAR and Computer Vision for Dynamic Path-Planning and Real-Time Obstacle Navigation in Competitive Environments](./projects/rss/rss)
 
-*mit course 6.4200 robotics: science and systems*
+*semester project for mit course 6.4200 robotics science and systems*
 
 This project encompassed the development of an autonomous race car capable of navigation using LiDAR and computer vision. On a team of five, we implemented techniques such as wall following, Monte Carlo Localization, and path planning, culminating in successful navigation of track races and obstacle courses.
 
 ---
+<a href="./projects/kdtree/kdtree"><img class="description-photo" src="./projects/kdtree/kd-tree.png"/></a>
 
-<img class="description-photo" src="./projects/kdtree/kd-tree.png"/>
 
 ### [Exploring Accelerated KD-Tree Construction Techniques for Efficient Ray Tracing](./projects/kdtree/kdtree)
 
 *final project for mit course 6.4400 computer graphics*
 
 This project investigates advanced KD-tree construction techniques to enhance ray tracing efficiency, focusing on dynamic scenes where traditional methods are computationally intensive. It implements and analyzes the performance of O(N log N) and O(N log^2 N) SAH-based algorithms.
+
+---
+
+<a href="https://futureforyoungscientists.org/" target="_blank"><img class="description-photo" src="./projects/fys/fys_logo.jpg"/></a>
+
+### <a href="https://futureforyoungscientists.org/" target="_blank">Future for Young Scientists</a>
+
+*educational organization offering free STEM courses to students in grades 2-7; website implemented with reactJS*
+
+We founded FYS with the mission to inspire children to think critically, like scientists. We believe that fostering scientific curiosity at a young age is essential to get our students on a path to learn about the STEM field. Through the engaging nature of hands-on learning, lessons become more appealing and fun while bringing out the inner curiosity that is present in every child.
 
 ## Work Experience
 
