@@ -59,6 +59,124 @@ We founded FYS with the mission to inspire children to think critically, like sc
 
 ## Work Experience
 
+<a href="https://www.csail.mit.edu/research/decentralized-information-group-dig" target="_blank">
+<img class="description-photo-natural" src="./work/csail_logo.png"/>
+</a>
+
+### <a href="https://www.csail.mit.edu/research/decentralized-information-group-dig" target="_blank">Natural Language Processing Researcher</a>
+
+**MIT Computer Science and AI Laboratory; Decentralized Information Group**
+
+*cambridge, ma; february 2023 - present*
+
+Contributing to <a href="https://www.csail.mit.edu/research/privacyml-privacy-preserving-framework-machine-learning" target="_blank">**PrivacyML**</a> with a context-aware Named-Entity Recognition (NER) framework. Utilized **SpaCy**, **PyTorch** and **Pandas** to extract metadata from unstructured text, enhancing exposure metrics for a synthetic dataset generation pipeline employing **Generative Adversarial Network** (GAN) technology. *(paper to be published soon)*
+
+Conducting research in Natural Language Processing (NLP), focusing on the evaluation of Large Language Models (LLMs) for diverse use cases and the design of a comprehensive framework to assess model **performance**, **privacy**, and **bias**.
+
+Currently developing a suite of metrics, including **perplexity**, **BLEU score**, **METEOR score**, and **context-aware exposure**, to measure the quality and contextual appropriateness of LLM-generated text and translations. Benchmark datasets will cover a wide range of language understanding and generation tasks, ensuring consistent evaluation of LLMs' performance.
+
+---
+
+<a href="https://helixvm.com/" target="_blank">
+<img class="description-photo-natural" src="./work/helix.png"/>
+</a>
+
+### <a href="https://helixvm.com/" target="_blank">Software Engineer Intern</a>
+
+**HelixVM**
+
+*remote; january 2024 - present*
+
+Collaborated closely with software engineering and cloud platform teams to develop **automation bots**, resulting in streamlined and automated business processes, leading to increased efficiency and reduced manual workload.
+
+Designed, implemented, and integrated end-to-end **RPA solutions** for various business processes, leveraging **data science** skills and a proficiency in Python, Java, **NodeJS**, **React**, **JavaScript**, HTML, CSS, and Amazon AWS, contributing to improved productivity and quality within HelixVM's healthcare marketplace.
+
+---
+
+<a href="https://www.lockheedmartin.com/en-us/products/sikorsky-black-hawk-helicopter.html" target="_blank">
+<img class="description-photo" src="./work/lockheed_logo.png"/>
+</a>
+
+### <a href="https://www.lockheedmartin.com/en-us/products/sikorsky-black-hawk-helicopter.html" target="_blank">Autonomy Software Intern</a>
+
+**Lockheed Martin - Sikorsky Aircraft**
+
+*stratford, ct; may 2023 - august 2023*
+
+Engineered and deployed real-time **LiDAR** data processing frameworks, leveraging **Potree** to efficiently organize and process 500,000-1,000,000 data points per second into a hierarchical octree structure. Explored **PointNet** and other deep learning models to extract crucial features from the LiDAR point cloud data.
+
+Developed a LiDAR raycasting simulator in **C++** within **osgEarth**, enabling rapid analysis of various terrains and providing 4000 vertical and horizontal clearances per second at any specified 3-dimensional coordinates.
+
+Designed and implemented a mission debugger using **OpenGL** and **Dear ImGui**, offering real-time visualization of simulated aircraft mission stacks, enhancing debugging capabilities and overall project efficiency.
+
+---
+
+<a href="https://www.media.mit.edu/groups/city-science/overview/" target="_blank">
+<img class="description-photo-natural" src="./work/media_lab.png"/>
+</a>
+
+### <a href="https://www.media.mit.edu/groups/city-science/overview/" target="_blank">Undergraduate Reseracher</a>
+
+**MIT Media Lab; City Science Group**
+
+*cambridge, ma; february 2023 - august 2023*
+
+Contributed to <a href="https://www.media.mit.edu/projects/axol/overview/" target="_blank">**Axol**</a>, a distributed sensing system for managing water resources in informal communities. The <a href="https://www.nature.com/articles/s41598-023-46236-3#Sec13" target="_blank">project paper</a> was published as Sensor platform for assessment of water usage patterns in informal settlements in **Scientific Reports**, a **Nature** publication.
+
+Developed a user-friendly application using **OpenCV** and Meta AI's **Segment Anything Model** (SAM) to provide real-time water tank volume estimation within 5% accuracy. Successfully integrated image processing capabilities to deliver precise results, enhancing the user experience.
+
+---
+
+<a href="https://sunnydayfund.com/" target="_blank">
+<img class="description-photo-natural" src="./work/sunny.png"/>
+</a>
+
+### <a href="https://sunnydayfund.com/" target="_blank">Software Engineer Intern</a>
+
+**Sunny Day Fund**
+
+*arlington, va; may 2022 - july 2022*
+
+Contributed to fullstack development of the company website using **Angular** to increase sales leads, widen the company’s exposure, and allow the company to post updates about their mission to secure further funding. 
+
+Improved UX of company’s POS software using **Angular**, NodeJS, HTML, leveraging APIs such as **HubSpot** & **Amazon AWS**.
+
+Rewrote documentation to streamline technical onboarding for new hires, reducing the duration of the training period.
+
+---
+
+<a href="https://misti.mit.edu/your-resources/crafting-your-experience/types-programs/global-teaching-labs" target="_blank">
+<img class="description-photo-natural" src="./work/misti.png"/>
+</a>
+
+### <a href="https://misti.mit.edu/your-resources/crafting-your-experience/types-programs/global-teaching-labs" target="_blank">Artificial Intelligence Educator</a>
+
+**MIT Global Teaching Labs - Arab World**
+
+*amman, jordan; december 2022 - february 2023*
+
+Developed and delivered a comprehensive AI curriculum to 150+ students at prestigious institutions, covering topics like models of **inference**, **PyTorch**, **Deep Learning** with Neural Networks, and **Natural Language Processing**.
+
+---
+
+<a href="https://www.meet.org/" target="_blank">
+<img class="description-photo-natural" src="./work/meet.png"/>
+</a>
+
+### <a href="https://www.meet.org/" target="_blank">Computer Science Instructor</a>
+
+**Middle East Entrepreneurs of Tomorrow**
+
+*jerusalem, israel; july 2022 - august 2022*
+
+Developed 4-week **Python**-based Computer Science curriculum to introduce programming concepts to high school freshmen.
+
+Worked with 120 Israeli and Palestinian students to spark binational conversations and forge bonds that create a cooperative, productive culture through a shared love for computer science.
+
+
+
+
+
 
 
 ---

@@ -31,4 +31,40 @@ nav:
    link: "/resume.pdf"
  - name: "contact"
    link: "/contact"
+
+########################
+
+# title: Navpreet Singh
+# url: "https://realnav1234.github.io/"
+# baseurl: "/home"
+
+# markdown: kramdown
+# ins_logo: "/home/mit_logo.png"
+
+# remote_theme: ankitsultana/researcher@gem
+
+# plugins:
+# - jekyll-remote-theme
+
+# tracking_id: #
+
+# footer: no
+# # footer_url: "https://github.com/realnav1234"
+# # footer_text: "Page design by Ankit Sultana"
+
+# # twitter_username: "bluh"
+ 
+# sass:
+#     style: compressed
+#     sass_dir: _sass
+
+# nav:
+#  - name: "about"
+#    link: "/home/"
+#  - name: "projects"
+#    link: "/home/#projects"
+#  - name: "resume"
+#    link: "/home/resume.pdf"
+#  - name: "contact"
+#    link: "/home/contact"
  
