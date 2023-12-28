@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Navpreet Singh's Portfolio
 ---
 
 <img class="profile-picture" src="profile_pic.jpeg">
