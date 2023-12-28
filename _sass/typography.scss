@@ -79,7 +79,7 @@
         }
     }
     .description-photo-natural {
-        width: $small-image-size;
+        max-width: $small-image-size;
         height: auto;
         // width: $small-image-size;
         // position: relative;
@@ -91,7 +91,7 @@
             margin: 0;
         }
         @media (max-width: $small-width) {
-            width: $small-image-size;
+            max-width: $small-image-size;
             
             // width: $small-image-size;
             img {
