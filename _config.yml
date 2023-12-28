@@ -1,6 +1,6 @@
 title: Navpreet Singh
 url: "https://realnav1234.github.io"
-baseurl: ""
+baseurl: "/"
 
 markdown: kramdown
 ins_logo: "/mit_logo.png"
@@ -24,7 +24,7 @@ sass:
 
 nav:
  - name: "about"
-   link: ""
+   link: "/"
  - name: "projects"
    link: "/#projects"
  - name: "resume"
