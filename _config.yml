@@ -23,8 +23,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "about"
-   link: "/"
+#  - name: "about"
+#    link: "/"
  - name: "projects"
    link: "/#projects"
  - name: internships
@@ -52,8 +52,8 @@ nav:
 
 # tracking_id: #
 
-# footer: yes
-# footer_url: "/home/#"
+# footer: no
+# footer_url: "/home/#ins-logo"
 # footer_text: "back to top"
 
 # # twitter_username: "bluh"
