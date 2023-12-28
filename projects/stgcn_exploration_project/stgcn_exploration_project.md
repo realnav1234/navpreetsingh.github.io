@@ -162,7 +162,7 @@ The impact of spatial data sparsity and hybrid models would be great to explore 
 
 ## References
 
-1. **Guo, S., Lin, Y., Feng, N., Song, C., & Wan, H.** (2019). Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting. *Proceedings of the AAAI Conference on Artificial Intelligence*, 33(01), 922-929. [https://ojs.aaai.org/index.php/AAAI/article/view/3881](https://ojs.aaai.org/index.php/AAAI/article/view/3881). DOI: 10.1609/aaai.v33i01.3301922
+1. **Guo, S., Lin, Y., Feng, N., Song, C., & Wan, H.** (2019). Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting. *Proceedings of the AAAI Conference on Artificial Intelligence*, 33(01), 922-929. [https://ojs.aaai.org/](https://ojs.aaai.org/index.php/AAAI/article/view/3881). DOI: 10.1609/aaai.v33i01.3301922
 
 2. **Jin, G., Liang, Y., Fang, Y., Shao, Z., Huang, J., Zhang, J., & Zheng, Y.** (2023). Spatio-Temporal Graph Neural Networks for Predictive Learning in Urban Computing: A Survey. *arXiv preprint arXiv:2303.14483*. [https://arxiv.org/abs/2303.14483](https://arxiv.org/abs/2303.14483)
 
