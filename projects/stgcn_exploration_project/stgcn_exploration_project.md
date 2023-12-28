@@ -175,3 +175,5 @@ The impact of spatial data sparsity and hybrid models would be great to explore 
 6. **Wu, Z., Pan, S., Long, G., Jiang, J., & Zhang, C.** (2019). Graph WaveNet for Deep Spatial-Temporal Graph Modeling. *arXiv preprint arXiv:1906.00121*. [https://arxiv.org/abs/1906.00121](https://arxiv.org/abs/1906.00121)
 
 7. **Yu, B., Yin, H., & Zhu, Z.** (2018). Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting. In *Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence* (IJCAI-2018). International Joint Conferences on Artificial Intelligence Organization. [http://dx.doi.org/10.24963/ijcai.2018/505](http://dx.doi.org/10.24963/ijcai.2018/505). DOI: 10.24963/ijcai.2018/505
+
+[*back to top*](#)

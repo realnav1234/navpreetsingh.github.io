@@ -105,3 +105,5 @@ Our Monte Carlo Localization and Pure Pursuit implementations were key in both s
 Reflecting on the semester, we recognized areas for future improvement. Enhancing Hough Line color segmentation, adding stop sign detection, and integrating dynamic obstacle avoidance and lane switching are some of the potential upgrades. These improvements will not only increase the car's performance but also its applicability in more complex real-world scenarios.
 
 In conclusion, this project was a significant learning experience, challenging us to apply theoretical knowledge to practical problems and adapt to unexpected challenges. It underscored the importance of iterative development and testing in robotics and provided valuable insights into the intricacies of autonomous system design.
+
+[*back to top*](#)

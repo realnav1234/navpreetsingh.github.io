@@ -55,6 +55,11 @@ This project investigates advanced KD-tree construction techniques to enhance ra
 
 We founded FYS with the mission to inspire children to think critically, like scientists. We believe that fostering scientific curiosity at a young age is essential to get our students on a path to learn about the STEM field. Through the engaging nature of hands-on learning, lessons become more appealing and fun while bringing out the inner curiosity that is present in every child.
 
+
+<!-- <p class="alignable pull-right"><a href="#"><i>back to top</i></a></p>>
+<br/> -->
+[*back to top*](#)
+
 ---
 
 ## Work Experience
@@ -173,10 +178,36 @@ Developed 4-week **Python**-based Computer Science curriculum to introduce progr
 
 Worked with 120 Israeli and Palestinian students to spark binational conversations and forge bonds that create a cooperative, productive culture through a shared love for computer science.
 
-
-
-
-
-
+[*back to top*](#)
 
 ---
+
+## Coursework
+
+<a href="https://phillipi.github.io/6.s898/" target="_blank">**deep learning** *6.s898*</a> - a graduate course exploring various deep learning architectures, such as transformers, graph neural networks, recurrent neural networks, and generative AI
+
+**representation, inference, and reasoning in AI** *6.141* - a graduate course exploring Markov decision processes, recurrent neural networks, graph search algorithms, and planning
+
+**computer graphics** *6.4400* - a course exploring ray tracing, image processing, animation, and simulation, with a focus on implementation
+
+**robotics: science and systems** *6.4200* - a course with a semester long [autonomous racing robot](./projects/rss/rss) project, implementing various robotics algorithms such as A\*, RRT, and RRT\* and techniques such as Monte Carlo localization
+
+**machine learning** *6.3900* - an introductory course exploring regression, fully-connected neural networks, convolutional neural networks, and reinforcement learning, with weekly labs exploring theory and implementation
+
+**inference** *6.3800* - a course exploring various inference techniques, such as Bayesian frameworks and Hidden Markov Models, with a focus on theoretical exploration and real world data science applications
+
+**algorithms** *6.1210* - a course exploring data structures, sorting algorithms, graph search algorithms, and encryption
+
+**fundamentals of programming** *6.1010* - a Python-based programming course exploring concepts such as graph search, recursion, backtracking, interpreters, and image processing
+
+**data science** *6.100b* - a programming course exploring concepts such as regression, clustering, and Monte Carlo methods
+
+**linear algebra and optimization** *18.c06* - a linear algebra course focusing on advanced optimization concepts, modeling, and applications; labwork was completed in [***Julia***](https://julialang.org/)
+
+[*back to top*](#)
+
+
+
+
+
+

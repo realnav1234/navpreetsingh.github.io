@@ -27,6 +27,10 @@ nav:
    link: "/"
  - name: "projects"
    link: "/#projects"
+ - name: internships
+   link: "/#work-experience" 
+ - name: coursework
+   link: "/#coursework"  
  - name: "resume"
    link: "/resume.pdf"
  - name: "contact"
@@ -48,9 +52,9 @@ nav:
 
 # tracking_id: #
 
-# footer: no
-# # footer_url: "https://github.com/realnav1234"
-# # footer_text: "Page design by Ankit Sultana"
+# footer: yes
+# footer_url: "/home/#"
+# footer_text: "back to top"
 
 # # twitter_username: "bluh"
  
@@ -59,12 +63,14 @@ nav:
 #     sass_dir: _sass
 
 # nav:
-#  - name: "about"
-#    link: "/home/"
 #  - name: "projects"
 #    link: "/home/#projects"
+#  - name: internships
+#    link: "/home/#work-experience" 
+#  - name: coursework
+#    link: "/home/#coursework"
 #  - name: "resume"
 #    link: "/home/resume.pdf"
 #  - name: "contact"
 #    link: "/home/contact"
- 
+

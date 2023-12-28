@@ -111,3 +111,5 @@ In conclusion, this research contributes to the field of ray tracing by implemen
 1. Shevtsov, M., Soupikov, A., and Kapustin, A. (2007). Highly parallel fast KD‐tree construction for interactive ray tracing of dynamic scenes. Computer Graphics Forum, 26(3), 395–404. [DOI](https://doi.org/10.1111/j.1467-8659.2007.01062.x)
    
 2. Wald, I., and Havran, V. (2006). On building fast kd-Trees for Ray Tracing, and on doing that in O(N log N). IEEE Xplore. [DOI](https://doi.org/10.1109/rt.2006.280216)
+
+[*back to top*](#)
