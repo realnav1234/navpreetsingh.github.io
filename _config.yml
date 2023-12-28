@@ -17,7 +17,7 @@ footer: no
 # footer_text: "Page design by Ankit Sultana"
 
 # twitter_username: "bluh"
-
+ 
 sass:
     style: compressed
     sass_dir: _sass
