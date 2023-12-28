@@ -17,7 +17,7 @@ These experiences have not only honed my skills but also fueled my passion for A
 
 <img class="description-photo" src="./projects/stgcn_exploration_project/metrla.png">
 
-### [Analyzing the Impact of Temporal Data Sparsity on Predictive Accuracy: A Study of Spatio-Temporal Graph Convolutional Networks for Traffic Pattern Modeling](./projects/stgcn_exploration_project/stgcn_exploration_project)
+### [Analyzing the Impact of Temporal Data Sparsity on Predictive Accuracy: a Study of Spatio-Temporal Graph Convolutional Networks for Traffic Pattern Modeling](./projects/stgcn_exploration_project/stgcn_exploration_project)
 
 *final project for mit course 6.s898 deep learning (graduate)*
 
@@ -25,8 +25,15 @@ This project investigates the impact of sparse temporal data on the predictive a
 
 ---
 
+<img class="description-photo" src="./projects/rss/racecar.jpg">
 
+### [Autonomous Racing Robot: Leveraging LiDAR and Computer Vision for Dynamic Path-Planning and Real-Time Obstacle Navigation in Competitive Environments](./projects/rss/rss)
 
+*mit course 6.4200 robotics: science and systems*
+
+This project encompassed the development of an autonomous race car capable of navigation using LiDAR and computer vision. On a team of five, we implemented techniques such as wall following, Monte Carlo Localization, and path planning, culminating in successful navigation of track races and obstacle courses.
+
+---
 
 
 ## Work Experience
