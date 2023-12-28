@@ -23,10 +23,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "about"
    link: "/personal-site/"
- - name: "Resume"
+ - name: "resume"
    link: "resume.pdf"
- - name: "Contact"
+ - name: "contact"
    link: "contact"
  
