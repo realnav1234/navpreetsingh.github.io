@@ -19,7 +19,7 @@ These experiences have not only honed my skills but also fueled my passion for A
 
 ### [Analyzing the Impact of Temporal Data Sparsity on Predictive Accuracy: a Study of Spatio-Temporal Graph Convolutional Networks for Traffic Pattern Modeling](./projects/stgcn_exploration_project/stgcn_exploration_project)
 
-*final project for mit course 6.s898 deep learning (graduate)*
+*final project for mit course 6.s898 deep learning*
 
 This project investigates the impact of sparse temporal data on the predictive accuracy of Spatio-Temporal Graph Convolutional Networks (ST-GCNs) in traffic modeling, addressing a gap in understanding these models' performance under real-world data irregularities.
 
