@@ -1,9 +1,9 @@
 title: Navpreet Singh
 url: "https://realnav1234.github.io"
-baseurl: "/personal-site/"
+baseurl: ""
 
 markdown: kramdown
-ins_logo: "/personal-site/mit_logo.png"
+ins_logo: "/mit_logo.png"
 
 remote_theme: ankitsultana/researcher@gem
 
@@ -24,9 +24,11 @@ sass:
 
 nav:
  - name: "about"
-   link: "/personal-site/"
+   link: ""
+ - name: "projects"
+   link: "/#projects"
  - name: "resume"
-   link: "resume.pdf"
+   link: "/resume.pdf"
  - name: "contact"
-   link: "contact"
+   link: "/contact"
  

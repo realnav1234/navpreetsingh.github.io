@@ -55,7 +55,10 @@ This project investigates advanced KD-tree construction techniques to enhance ra
 
 We founded FYS with the mission to inspire children to think critically, like scientists. We believe that fostering scientific curiosity at a young age is essential to get our students on a path to learn about the STEM field. Through the engaging nature of hands-on learning, lessons become more appealing and fun while bringing out the inner curiosity that is present in every child.
 
+---
+
 ## Work Experience
 
-## Coursework
+
+
 ---
