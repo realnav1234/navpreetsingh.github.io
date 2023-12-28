@@ -14,6 +14,12 @@ These experiences have not only honed my skills but also fueled my passion for A
 
 ## Projects
 
+1. **Analyzing the Impact of Temporal Data Sparsity on Predictive Accuracy of Spatio-Temporal Graph Convolutional Networks for Traffic Pattern Modeling** 
+[*details*](stgcn_exploration_project)
+
+A Study 
+
+
 ## Work Experience
 
 ## Coursework
