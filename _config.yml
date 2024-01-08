@@ -9,6 +9,7 @@ remote_theme: ankitsultana/researcher@gem
 
 plugins:
 - jekyll-remote-theme
+- jekyll-seo-tag
 
 tracking_id: #
 
