@@ -120,7 +120,7 @@ Designed and implemented a mission debugger using **OpenGL** and **Dear ImGui**,
 <img class="description-photo-natural" src="./work/media_lab.png"/>
 </a>
 
-### <a href="https://www.media.mit.edu/groups/city-science/overview/" target="_blank">Undergraduate Reseracher</a>
+### <a href="https://www.media.mit.edu/groups/city-science/overview/" target="_blank">Undergraduate Researcher</a>
 
 **MIT Media Lab; City Science Group**
 
