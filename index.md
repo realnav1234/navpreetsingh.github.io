@@ -102,7 +102,7 @@ Designed, implemented, and integrated end-to-end **RPA solutions** for various b
 <img class="description-photo" src="./work/lockheed_logo.png"/>
 </a>
 
-### <a href="https://www.lockheedmartin.com/en-us/products/sikorsky-black-hawk-helicopter.html" target="_blank">Autonomy Software Intern</a>
+### <a href="https://www.lockheedmartin.com/en-us/products/sikorsky-black-hawk-helicopter.html" target="_blank">AI/ML Engineering Intern</a>
 
 **Lockheed Martin - Sikorsky Aircraft**
 
