@@ -5,14 +5,14 @@ title: Navpreet Singh's Portfolio
 
 <img class="profile-picture" src="profile_pic.jpeg">
 
-Hi! My name is Navpreet Singh and I am a third-year undergraduate at MIT studying Artificial Intelligence and Decision Making. 
+Hi! My name is Navpreet Singh and I am a third-year undergraduate at MIT studying Artificial Intelligence and Decision Making.
 
 My journey so far has been a thrilling blend of exploring Natural Language Processing at MIT's CSAIL, and delving into the field of Robotics through both my academic coursework and a hands-on internship at Lockheed Martin. As a developer, I've gained practical experience with full-stack development and automation during my internships at HelixVM and Sunny Day Fund. Finally, as an educator, I have taught Computer Science and AI courses in Jerusalem and Amman, while continuing my role as an Executive Director and Co-Founder of Future for Young Scientists.
 
 These experiences have not only honed my skills but also fueled my passion for AI, Computer Science, and its potential to revolutionize the way we interact with technology.
 
+## Projects
 
-## Projects 
 ---
 
 <a href="./projects/stgcn_exploration_project/stgcn_exploration_project">
@@ -21,7 +21,7 @@ These experiences have not only honed my skills but also fueled my passion for A
 
 ### [Analyzing the Impact of Temporal Data Sparsity on Predictive Accuracy: a Study of Spatio-Temporal Graph Convolutional Networks for Traffic Pattern Modeling](./projects/stgcn_exploration_project/stgcn_exploration_project)
 
-*final project for mit course 6.s898 deep learning*
+_final project for mit course 6.s898 deep learning_
 
 This project investigates the impact of sparse temporal data on the predictive accuracy of Spatio-Temporal Graph Convolutional Networks (ST-GCNs) in traffic modeling, addressing a gap in understanding these models' performance under real-world data irregularities.
 
@@ -31,17 +31,17 @@ This project investigates the impact of sparse temporal data on the predictive a
 
 ### [Autonomous Racing Robot: Leveraging LiDAR and Computer Vision for Dynamic Path-Planning and Real-Time Obstacle Navigation in Competitive Environments](./projects/rss/rss)
 
-*semester project for mit course 6.4200 robotics science and systems*
+_semester project for mit course 6.4200 robotics science and systems_
 
 This project encompassed the development of an autonomous race car capable of navigation using LiDAR and computer vision. On a team of five, we implemented techniques such as wall following, Monte Carlo Localization, and path planning, culminating in successful navigation of track races and obstacle courses.
 
 ---
-<a href="./projects/kdtree/kdtree"><img class="description-photo" src="./projects/kdtree/kd-tree.png"/></a>
 
+<a href="./projects/kdtree/kdtree"><img class="description-photo" src="./projects/kdtree/kd-tree.png"/></a>
 
 ### [Exploring Accelerated KD-Tree Construction Techniques for Efficient Ray Tracing](./projects/kdtree/kdtree)
 
-*final project for mit course 6.4400 computer graphics*
+_final project for mit course 6.4400 computer graphics_
 
 This project investigates advanced KD-tree construction techniques to enhance ray tracing efficiency, focusing on dynamic scenes where traditional methods are computationally intensive. It implements and analyzes the performance of O(N log N) and O(N log^2 N) SAH-based algorithms.
 
@@ -51,14 +51,14 @@ This project investigates advanced KD-tree construction techniques to enhance ra
 
 ### <a href="https://futureforyoungscientists.org/" target="_blank">Future for Young Scientists</a>
 
-*educational organization offering free STEM courses to students in grades 2-7; website implemented with reactJS*
+_educational organization offering free STEM courses to students in grades 2-7; website implemented with reactJS_
 
 We founded FYS with the mission to inspire children to think critically, like scientists. We believe that fostering scientific curiosity at a young age is essential to get our students on a path to learn about the STEM field. Through the engaging nature of hands-on learning, lessons become more appealing and fun while bringing out the inner curiosity that is present in every child.
 
-
 <!-- <p class="alignable pull-right"><a href="#"><i>back to top</i></a></p>>
 <br/> -->
-[*back to top*](#)
+
+[_back to top_](#)
 
 ---
 
@@ -72,9 +72,9 @@ We founded FYS with the mission to inspire children to think critically, like sc
 
 **MIT Computer Science and AI Laboratory; Decentralized Information Group**
 
-*cambridge, ma; february 2023 - present*
+_cambridge, ma; february 2023 - present_
 
-Contributing to <a href="https://www.csail.mit.edu/research/privacyml-privacy-preserving-framework-machine-learning" target="_blank">**PrivacyML**</a> with a context-aware Named-Entity Recognition (NER) framework. Utilized **SpaCy**, **PyTorch** and **Pandas** to extract metadata from unstructured text, enhancing exposure metrics for a synthetic dataset generation pipeline employing **Generative Adversarial Network** (GAN) technology. *(paper to be published soon)*
+Contributing to <a href="https://www.csail.mit.edu/research/privacyml-privacy-preserving-framework-machine-learning" target="_blank">**PrivacyML**</a> with a context-aware Named-Entity Recognition (NER) framework. Utilized **SpaCy**, **PyTorch** and **Pandas** to extract metadata from unstructured text, enhancing exposure metrics for a synthetic dataset generation pipeline employing **Generative Adversarial Network** (GAN) technology. _(paper to be published soon)_
 
 Conducting research in Natural Language Processing (NLP), focusing on the evaluation of Large Language Models (LLMs) for diverse use cases and the design of a comprehensive framework to assess model **performance**, **privacy**, and **bias**.
 
@@ -90,7 +90,7 @@ Currently developing a suite of metrics, including **perplexity**, **BLEU score*
 
 **HelixVM**
 
-*remote; january 2024 - present*
+_remote; january 2024 - present_
 
 Collaborated closely with software engineering and cloud platform teams to develop **automation bots**, resulting in streamlined and automated business processes, leading to increased efficiency and reduced manual workload.
 
@@ -106,7 +106,7 @@ Designed, implemented, and integrated end-to-end **RPA solutions** for various b
 
 **Lockheed Martin - Sikorsky Aircraft**
 
-*stratford, ct; may 2023 - august 2023*
+_stratford, ct; may 2023 - august 2023_
 
 Engineered and deployed real-time **LiDAR** data processing frameworks, leveraging **Potree** to efficiently organize and process 500,000-1,000,000 data points per second into a hierarchical octree structure. Explored **PointNet** and other deep learning models to extract crucial features from the LiDAR point cloud data.
 
@@ -124,7 +124,7 @@ Designed and implemented a mission debugger using **OpenGL** and **Dear ImGui**,
 
 **MIT Media Lab; City Science Group**
 
-*cambridge, ma; february 2023 - august 2023*
+_cambridge, ma; february 2023 - august 2023_
 
 Contributed to <a href="https://www.media.mit.edu/projects/axol/overview/" target="_blank">**Axol**</a>, a distributed sensing system for managing water resources in informal communities. The <a href="https://www.nature.com/articles/s41598-023-46236-3#Sec13" target="_blank">project paper</a> was published as Sensor platform for assessment of water usage patterns in informal settlements in **Scientific Reports**, a **Nature** publication.
 
@@ -140,9 +140,9 @@ Developed a user-friendly application using **OpenCV** and Meta AI's **Segment A
 
 **Sunny Day Fund**
 
-*arlington, va; may 2022 - july 2022*
+_arlington, va; may 2022 - july 2022_
 
-Contributed to fullstack development of the company website using **Angular** to increase sales leads, widen the company’s exposure, and allow the company to post updates about their mission to secure further funding. 
+Contributed to fullstack development of the company website using **Angular** to increase sales leads, widen the company’s exposure, and allow the company to post updates about their mission to secure further funding.
 
 Improved UX of company’s POS software using **Angular**, NodeJS, HTML, leveraging APIs such as **HubSpot** & **Amazon AWS**.
 
@@ -158,7 +158,7 @@ Rewrote documentation to streamline technical onboarding for new hires, reducing
 
 **MIT Global Teaching Labs - Arab World**
 
-*amman, jordan; december 2022 - february 2023*
+_amman, jordan; december 2022 - february 2023_
 
 Developed and delivered a comprehensive AI curriculum to 150+ students at prestigious institutions, covering topics like models of **inference**, **PyTorch**, **Deep Learning** with Neural Networks, and **Natural Language Processing**.
 
@@ -172,42 +172,42 @@ Developed and delivered a comprehensive AI curriculum to 150+ students at presti
 
 **Middle East Entrepreneurs of Tomorrow**
 
-*jerusalem, israel; july 2022 - august 2022*
+_jerusalem, israel; july 2022 - august 2022_
 
 Developed 4-week **Python**-based Computer Science curriculum to introduce programming concepts to high school freshmen.
 
 Worked with 120 Israeli and Palestinian students to spark binational conversations and forge bonds that create a cooperative, productive culture through a shared love for computer science.
 
-[*back to top*](#)
+[_back to top_](#)
 
 ---
 
 ## Coursework
 
-<a href="https://phillipi.github.io/6.s898/" target="_blank">**deep learning** *6.s898*</a> - a graduate course exploring various deep learning architectures, such as transformers, graph neural networks, recurrent neural networks, and generative AI
+<a href="https://phillipi.github.io/6.s898/" target="_blank">**deep learning**</a> _6.s898_ - a graduate course exploring various deep learning architectures, such as transformers, graph neural networks, recurrent neural networks, and generative AI
 
-**representation, inference, and reasoning in AI** *6.141* - a graduate course exploring Markov decision processes, recurrent neural networks, graph search algorithms, and planning
+**interactive visualization and society** _6.c35_ - a course delving into the theory and application of data visualization techniques, in collaboration with Boston's <a href="https://www.mapc.org/aboutus/" target="_blank">Metropolitan Area Planning Council</a>.
 
-**computer graphics** *6.4400* - a course exploring ray tracing, image processing, animation, and simulation, with a focus on implementation
+**representation, inference, and reasoning in AI** _6.4110_ - a graduate course exploring Markov decision processes, recurrent neural networks, graph search algorithms, and planning
 
-**robotics: science and systems** *6.4200* - a course with a semester long [autonomous racing robot](./projects/rss/rss) project, implementing various robotics algorithms such as A\*, RRT, and RRT\* and techniques such as Monte Carlo localization
+**design and analysis of algorithms** *6.1220* - a course delving into fundamental algorithms shaping computer science and beyond, from mathematics to the social sciences, emphasizing design, analysis, and application.
 
-**machine learning** *6.3900* - an introductory course exploring regression, fully-connected neural networks, convolutional neural networks, and reinforcement learning, with weekly labs exploring theory and implementation
+**computer graphics** _6.4400_ - a course exploring ray tracing, image processing, animation, and simulation, with a focus on implementation
 
-**inference** *6.3800* - a course exploring various inference techniques, such as Bayesian frameworks and Hidden Markov Models, with a focus on theoretical exploration and real world data science applications
+**robotics: science and systems** _6.4200_ - a course with a semester long [autonomous racing robot](./projects/rss/rss) project, implementing various robotics algorithms such as A\*, RRT, and RRT\* and techniques such as Monte Carlo localization
 
-**algorithms** *6.1210* - a course exploring data structures, sorting algorithms, graph search algorithms, and encryption
+**machine learning** _6.3900_ - an introductory course exploring regression, fully-connected neural networks, convolutional neural networks, and reinforcement learning, with weekly labs exploring theory and implementation
 
-**fundamentals of programming** *6.1010* - a Python-based programming course exploring concepts such as graph search, recursion, backtracking, interpreters, and image processing
+**inference** _6.3800_ - a course exploring various inference techniques, such as Bayesian frameworks and Hidden Markov Models, with a focus on theoretical exploration and real world data science applications
 
-**data science** *6.100b* - a programming course exploring concepts such as regression, clustering, and Monte Carlo methods
+**probability** *6.3700* - a course exploring introductory probability concepts, such as set theory, Bayesian frameworks, and inference models.
 
-**linear algebra and optimization** *18.c06* - a linear algebra course focusing on advanced optimization concepts, modeling, and applications; labwork was completed in [***Julia***](https://julialang.org/)
+**introduction to algorithms** _6.1210_ - a course exploring data structures, sorting algorithms, graph search algorithms, and encryption
 
-[*back to top*](#)
+**fundamentals of programming** _6.1010_ - a Python-based programming course exploring concepts such as graph search, recursion, backtracking, interpreters, and image processing
 
+**data science** _6.100b_ - a programming course exploring concepts such as regression, clustering, and Monte Carlo methods
 
+**linear algebra and optimization** _18.c06_ - a linear algebra course focusing on advanced optimization concepts, modeling, and applications; labwork was completed in [**_Julia_**](https://julialang.org/)
 
-
-
-
+[_back to top_](#)
