@@ -47,7 +47,7 @@ This project investigates advanced KD-tree construction techniques to enhance ra
 
 ---
 
-<a href="https://futureforyoungscientists.org/" target="_blank"><img class="description-photo" src="./projects/fys/fys_logo.jpg"/></a>
+<a href="https://futureforyoungscientists.org/" target="_blank"><img class="description-photo" src="./projects/fys/fys_logo.png"/></a>
 
 ### <a href="https://futureforyoungscientists.org/" target="_blank">Future for Young Scientists</a>
 
@@ -83,7 +83,7 @@ Currently developing a suite of metrics, including **perplexity**, **BLEU score*
 ---
 
 <a href="https://helixvm.com/" target="_blank">
-<img class="description-photo-natural" src="./work/helix.png"/>
+<img class="description-photo-natural" src="./work/helix_white.png"/>
 </a>
 
 ### <a href="https://helixvm.com/" target="_blank">Software Engineer Intern</a>
@@ -117,7 +117,7 @@ Designed and implemented a mission debugger using **OpenGL** and **Dear ImGui**,
 ---
 
 <a href="https://www.media.mit.edu/groups/city-science/overview/" target="_blank">
-<img class="description-photo-natural" src="./work/media_lab.png"/>
+<img class="description-photo-natural" src="./work/media_lab_white.png"/>
 </a>
 
 ### <a href="https://www.media.mit.edu/groups/city-science/overview/" target="_blank">Undergraduate Researcher</a>
@@ -151,7 +151,7 @@ Rewrote documentation to streamline technical onboarding for new hires, reducing
 ---
 
 <a href="https://misti.mit.edu/your-resources/crafting-your-experience/types-programs/global-teaching-labs" target="_blank">
-<img class="description-photo-natural" src="./work/misti.png"/>
+<img class="description-photo-natural" src="./work/misti_white.png"/>
 </a>
 
 ### <a href="https://misti.mit.edu/your-resources/crafting-your-experience/types-programs/global-teaching-labs" target="_blank">Artificial Intelligence Educator</a>

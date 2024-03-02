@@ -4,7 +4,7 @@ url: "https://realnav1234.github.io/"
 baseurl: "/home"
 
 markdown: kramdown
-ins_logo: "/home/mit_logo.png"
+ins_logo: "/home/mit_logo_white.png"
 
 remote_theme: ankitsultana/researcher@gem
 
