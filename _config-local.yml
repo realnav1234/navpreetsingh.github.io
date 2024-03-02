@@ -1,0 +1,37 @@
+
+title: Navpreet Singh
+url: "https://realnav1234.github.io/"
+baseurl: "/home"
+
+markdown: kramdown
+ins_logo: "/home/mit_logo.png"
+
+remote_theme: ankitsultana/researcher@gem
+
+plugins:
+- jekyll-remote-theme
+
+tracking_id: #
+
+footer: no
+footer_url: "/home/#ins-logo"
+footer_text: "back to top"
+
+# twitter_username: "bluh"
+ 
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "projects"
+   link: "/home/#projects"
+ - name: internships
+   link: "/home/#work-experience" 
+ - name: coursework
+   link: "/home/#coursework"
+ - name: "resume"
+   link: "/home/resume.pdf"
+ - name: "contact"
+   link: "/home/contact"
+
