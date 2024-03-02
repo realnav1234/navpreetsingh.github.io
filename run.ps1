@@ -4,10 +4,11 @@ param (
     [string]$arg1
 )
 
-if ($arg1 -eq "local") {
+if ($arg1 -eq "prod") {
     # Run jekyll with local configuration
-    jekyll serve --config _config-local.yml
+    
+    jekyll serve
 } else {
     # Run jekyll without specifying a config
-    jekyll serve
+    jekyll serve --config _config-local.yml
 }
