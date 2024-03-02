@@ -86,11 +86,13 @@ The approach presented in Shevtsov et al. implements an efficient memory allocat
 ### SAH-Based KD-Tree
 
 In this implementation of the KD-tree construction algorithms described in Wald's paper, I focused on two specific approaches: the O(N log^2 N) and the O(N log N) methods for SAH-based KD-tree construction. These implementations were tested on the Stanford bunny and the armadillo models to assess their performance in terms of KD-tree build times.
-
+<!-- 
 | Model                  | O(N log^2 N)   | O(N log N)     |
 |------------------------|----------------|-----------------|
 | Stanford bunny         | 9.8 sec        | 5.3 sec         |
-| Armadillo (345,944 triangles) | 23.8 sec       | 13.1 sec        |
+| Armadillo (345,944 triangles) | 23.8 sec       | 13.1 sec        | -->
+
+<img src="results_table.png"/>
 
 The results clearly demonstrate the superior efficiency of the O(N log N) algorithm over the O(N log^2 N) method. For both the Stanford bunny and the armadillo models, the build times were significantly lower with the O(N log N) approach. This is consistent with the theoretical expectations, as the O(N log N) algorithm has a lower computational complexity and is thus expected to perform better, especially as the number of triangles increases.
 
