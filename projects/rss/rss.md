@@ -6,7 +6,7 @@ title: Autonomous RACECAR
 # Autonomous Racing Robot 
 ### Leveraging LiDAR and Computer Vision for Dynamic Path-Planning and Real-Time Obstacle Navigation in Competitive Environments
 
-<img src="racecar.jpg"/>
+<img src="racecar.png"/>
 
 **Figure 1**: The [MIT RACECAR](https://racecar.mit.edu/) platform.
 
