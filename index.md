@@ -90,11 +90,11 @@ Currently developing a suite of metrics, including **perplexity**, **BLEU score*
 
 **HelixVM**
 
-_remote; january 2024 - present_
+_remote; january 2024 - june 2024_
 
-Collaborated closely with software engineering and cloud platform teams to develop **automation bots**, resulting in streamlined and automated business processes, leading to increased efficiency and reduced manual workload.
+Designed, implemented, and integrated end-to-end **RPA solutions** for various business processes, leveraging **data science** skills and proficiency in Python, Robot Framework, SQL, and Amazon AWS S3/EC2, contributing to improved productivity and quality within HelixVM's healthcare marketplace.
 
-Designed, implemented, and integrated end-to-end **RPA solutions** for various business processes, leveraging **data science** skills and a proficiency in Python, Java, **NodeJS**, **React**, **JavaScript**, HTML, CSS, and Amazon AWS, contributing to improved productivity and quality within HelixVM's healthcare marketplace.
+Developed Electronic Health Record (EHR) **automation bots** deployed using Jenkins and Github Actions, resulting in streamlined and automated business processes, leading to increased efficiency and reduced manual workload in billing, clinical charting, and patient-facing workflows.
 
 ---
 
