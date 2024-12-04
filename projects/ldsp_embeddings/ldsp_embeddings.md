@@ -1,5 +1,14 @@
 # Data for All Linguistic Properties
 
+# Table of Contents
+
+[Control](#control)       | [Definiteness](#definiteness)  
+[Factuality](#factuality) | [Intensifier](#intensifier)  
+[Negation](#negation)     | [Polarity](#polarity)  
+[Quantity](#quantity)     | [Subject-Object](#subject-object)  
+[Synonym](#synonym)       | [Tense](#tense)  
+[Voice](#voice)           |  
+
 [Control](#control), [Definiteness](#definiteness), [Factuality](#factuality), [Intensifier](#intensifier), [Negation](#negation), [Polarity](#polarity), [Quantity](#quantity), [Subject-Object](#subject-object), [Synonym](#synonym), [Tense](#tense), [Voice](#voice)
 
 - [Control](#control), 
@@ -17,6 +26,10 @@
 # Control
 
 The control group contains sentence pairs of completely unrelated sentences. This is used to compare to the LDSPs.
+
+## Example
+- The chef did not create a culinary delight.
+- He worked incredibly long hours this week.
 
 ## Mutual Information Values with Analysis Overlays
 <img src="results/control/combined_analysis/combined_graph_rfe.png">
