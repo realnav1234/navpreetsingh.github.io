@@ -1,6 +1,30 @@
-## Control
+# Data for All Linguistic Properties
+
+[Control](#control), [Definiteness](#definiteness), [Factuality](#factuality), [Intensifier](#intensifier), [Negation](#negation), [Polarity](#polarity), [Quantity](#quantity), [Subject-Object](#subject-object), [Synonym](#synonym), [Tense](#tense), [Voice](#voice)
+
+- [Control](#control), 
+- [Definiteness](#definiteness), 
+- [Factuality](#factuality),
+- [Intensifier](#intensifier), 
+- [Negation](#negation), 
+- [Polarity](#polarity), 
+- [Quantity](#quantity), 
+- [Subject-Object](#subject-object), 
+- [Synonym](#synonym), 
+- [Tense](#tense), 
+- [Voice](#voice)
+
+# Control
 
 The control group contains sentence pairs of completely unrelated sentences. This is used to compare to the LDSPs.
+
+## Mutual Information Values with Analysis Overlays
+<img src="results/control/combined_analysis/combined_graph_rfe.png">
+
+## Top T-Test P-Values 
+<img src="results/control/t_test_analysis/top_4_p_values.png">
+
+## Top EDI Scores
 
 | Dimension | EDI Score           |
 |-----------|---------------------|
@@ -25,6 +49,49 @@ The control group contains sentence pairs of completely unrelated sentences. Thi
 | 256       | 0.5308161230704013  |
 | 162       | 0.5293937625266878  |
 
-<img src="results/control/combined_analysis/combined_graph_rfe.png">
 
-<img src="results/control/t_test_analysis/top_4_p_values.png">
+# Definiteness
+
+Filler
+
+# Factuality
+
+Filler
+
+# Intensifier
+
+Filler
+
+# Negation
+
+Filler
+
+# Polarity
+
+Filler
+
+# Quantity
+
+Filler
+
+# Subject-Object
+
+Filler
+
+# Synonym
+
+Filler
+
+# Tense
+
+Filler
+
+# Voice
+
+Filler
+
+
+
+
+
+
