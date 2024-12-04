@@ -27,6 +27,9 @@ _Example_
 ## Top T-Test P-Values 
 <img src="results/control/t_test_analysis/top_4_p_values.png">
 
+## Bottom T-Test P-Values 
+<img src="results/control/t_test_analysis/bottom_4_p_values.png">
+
 ## Top EDI Scores
 
 | Dimension | EDI Score           |
@@ -67,6 +70,9 @@ _Example_
 
 ## Top T-Test P-Values 
 <img src="results/definiteness/t_test_analysis/top_4_p_values.png">
+
+## Bottom T-Test P-Values 
+<img src="results/definiteness/t_test_analysis/bottom_4_p_values.png">
 
 ## Top EDI Scores
 
@@ -112,6 +118,9 @@ _Example_
 ## Top T-Test P-Values 
 <img src="results/factuality/t_test_analysis/top_4_p_values.png">
 
+## Bottom T-Test P-Values 
+<img src="results/factuality/t_test_analysis/bottom_4_p_values.png">
+
 ## Top EDI Scores
 
 | Dimension | EDI Score           |
@@ -153,6 +162,9 @@ _Example_
 ## Top T-Test P-Values 
 <img src="results/intensifier/t_test_analysis/top_4_p_values.png">
 
+## Bottom T-Test P-Values 
+<img src="results/intensifier/t_test_analysis/bottom_4_p_values.png">
+
 ## Top EDI Scores
 
 | Dimension | EDI Score           |
@@ -182,7 +194,7 @@ _Example_
 
 # Negation
 
-A _negation_ occurs when a _not_ or similar word is added to a sentence, reversing the meaning. 
+A _negation_ occurs when a _not_ is added to a sentence, negating the meaning.
 
 _Example_
 - The movie is interesting.
@@ -193,6 +205,9 @@ _Example_
 
 ## Top T-Test P-Values 
 <img src="results/negation/t_test_analysis/top_4_p_values.png">
+
+## Bottom T-Test P-Values 
+<img src="results/negation/t_test_analysis/bottom_4_p_values.png">
 
 ## Top EDI Scores
 
@@ -223,27 +238,267 @@ _Example_
 
 # Polarity
 
-Filler
+A _polarity_ change is similar to a negation, and occurs when an antonym is added, reversing the meaning of the sentence completely.
+
+_Example_
+- The environment is conducive.
+- The environment is detrimental.
+
+## Mutual Information Values with Analysis Overlays
+<img src="results/polarity/combined_analysis/combined_graph_rfe.png">
+
+## Top T-Test P-Values 
+<img src="results/polarity/t_test_analysis/top_4_p_values.png">
+
+## Bottom T-Test P-Values 
+<img src="results/polarity/t_test_analysis/bottom_4_p_values.png">
+
+## Top EDI Scores
+
+| Dimension | EDI Score           |
+|-----------|---------------------|
+| 500       | 0.9118035265695761  |
+| 431       | 0.9028294366403691  |
+| 461       | 0.8435982169459837  |
+| 594       | 0.7776863658507271  |
+| 505       | 0.7610103590373872  |
+| 74        | 0.7397600952826947  |
+| 190       | 0.7347305387526247  |
+| 46        | 0.7325495808879199  |
+| 304       | 0.7275438125748311  |
+| 401       | 0.7190829320033523  |
+| 733       | 0.7150081418524625  |
+| 460       | 0.7040662242986413  |
+| 662       | 0.700987853942572   |
+| 715       | 0.6972338515553123  |
+| 366       | 0.6949074672323845  |
+| 96        | 0.690384674795291   |
+| 99        | 0.680759918353884   |
+| 698       | 0.6784280276688933  |
+| 397       | 0.6668506646515758  |
+| 349       | 0.6633556665569269  |
+
+[Back to Top](#table-of-contents)
 
 # Quantity
 
-Filler
+A change in _quantity_, for our purposes, is defined as a switch from an exact number used to numerate the items to a grouping word.
+
+_Example_
+- There are 50 stars visible.
+- There are countless stars in the sky.
+
+## Mutual Information Values with Analysis Overlays
+<img src="results/quantity/combined_analysis/combined_graph_rfe.png">
+
+## Top T-Test P-Values 
+<img src="results/quantity/t_test_analysis/top_4_p_values.png">
+
+## Bottom T-Test P-Values 
+<img src="results/quantity/t_test_analysis/bottom_4_p_values.png">
+
+## Top EDI Scores
+
+| Dimension | EDI Score           |
+|-----------|---------------------|
+| 463       | 0.8181963235997036  |
+| 192       | 0.8131996114888855  |
+| 390       | 0.7578022704464027  |
+| 312       | 0.7228532202861987  |
+| 649       | 0.715665959048657   |
+| 457       | 0.7037360980145687  |
+| 411       | 0.6866863842919532  |
+| 67        | 0.6815309379248267  |
+| 314       | 0.6800765749994104  |
+| 243       | 0.6787573617650637  |
+| 489       | 0.670364895006478   |
+| 505       | 0.6610798425699865  |
+| 735       | 0.6604219100090831  |
+| 723       | 0.6481866386909788  |
+| 160       | 0.6418544323786269  |
+| 42        | 0.6380205996603368  |
+| 354       | 0.6321866195388746  |
+| 22        | 0.626895771941229   |
+| 304       | 0.6245124546186661  |
+| 512       | 0.622629876020023   |
+
+[Back to Top](#table-of-contents)
 
 # Subject-Object
 
-Filler
+These LDSPs contain a sentence constructed in the Subjet-Verb-Object order and a sentence constructed in the Object-Verb-Subject order, with an entity executing the verb being the subject.
+
+_Example_
+- The studio distributed the film worldwide.
+- The film was distributed worldwide by the studio.
+
+## Mutual Information Values with Analysis Overlays
+<img src="results/subjectObject/combined_analysis/combined_graph_rfe.png">
+
+## Top T-Test P-Values 
+<img src="results/subjectObject/t_test_analysis/top_4_p_values.png">
+
+## Bottom T-Test P-Values 
+<img src="results/subjectObject/t_test_analysis/bottom_4_p_values.png">
+
+## Top EDI Scores
+
+| Dimension | EDI Score           |
+|-----------|---------------------|
+| 750       | 0.8047849086293811  |
+| 534       | 0.7930368518184234  |
+| 693       | 0.7092001313840357  |
+| 725       | 0.7027986723614943  |
+| 447       | 0.7021026145241268  |
+| 766       | 0.7005443773433323  |
+| 179       | 0.6959684020023467  |
+| 729       | 0.6957538201522542  |
+| 131       | 0.6919927680564628  |
+| 27        | 0.6835840825872195  |
+| 653       | 0.6808871847556757  |
+| 767       | 0.6685909964068689  |
+| 70        | 0.6566567807098977  |
+| 378       | 0.6523333057168115  |
+| 308       | 0.6515174264889203  |
+| 351       | 0.6499760988906196  |
+| 140       | 0.647322998256319   |
+| 669       | 0.6467161919857363  |
+| 585       | 0.6388388990341102  |
+| 476       | 0.6364643912664131  |
+
+[Back to Top](#table-of-contents)
 
 # Synonym
 
-Filler
+In these LDSPs, both sentences have the same meaning, with one word being replaced by one of its synonyms.
+
+_Example_
+- The outlook was optimistic.
+- The outlook was hopeful.
+
+## Mutual Information Values with Analysis Overlays
+<img src="results/synonym/combined_analysis/combined_graph_rfe.png">
+
+## Top T-Test P-Values 
+<img src="results/synonym/t_test_analysis/top_4_p_values.png">
+
+## Bottom T-Test P-Values 
+<img src="results/synonym/t_test_analysis/bottom_4_p_values.png">
+
+## Top EDI Scores
+
+| Dimension | EDI Score           |
+|-----------|---------------------|
+| 203       | 0.7126321462472206  |
+| 676       | 0.6292493848605626  |
+| 587       | 0.6123148265447853  |
+| 446       | 0.6087907386961235  |
+| 463       | 0.6052098181103989  |
+| 641       | 0.6013360709988307  |
+| 544       | 0.5942967698391941  |
+| 605       | 0.5846877212928554  |
+| 100       | 0.5794660101210808  |
+| 91        | 0.5719742200502937  |
+| 560       | 0.5525881046635619  |
+| 419       | 0.5448489051834214  |
+| 461       | 0.539803074960564   |
+| 654       | 0.5349105944781068  |
+| 437       | 0.5343806150507385  |
+| 434       | 0.5330112855039122  |
+| 701       | 0.5315263924251359  |
+| 561       | 0.5246489832006953  |
+| 37        | 0.5191242684700428  |
+| 311       | 0.513060914228459   |
+
+[Back to Top](#table-of-contents)
 
 # Tense
 
-Filler
+In these LDSPs, one sentence is constructed in the present tense, while the other is in the past tense.
+
+_Example_
+- The phone rings loudly.
+- The phone rang loudly.
+
+## Mutual Information Values with Analysis Overlays
+<img src="results/tense/combined_analysis/combined_graph_rfe.png">
+
+## Top T-Test P-Values 
+<img src="results/tense/t_test_analysis/top_4_p_values.png">
+
+## Bottom T-Test P-Values 
+<img src="results/tense/t_test_analysis/bottom_4_p_values.png">
+
+## Top EDI Scores
+
+| Dimension | EDI Score           |
+|-----------|---------------------|
+| 586       | 0.8634693581659274  |
+| 684       | 0.8429033561251439  |
+| 718       | 0.8409529895381005  |
+| 641       | 0.818491952027095   |
+| 335       | 0.806296534127237   |
+| 38        | 0.7500954961203811  |
+| 548       | 0.7437992017448566  |
+| 45        | 0.7406081924292894  |
+| 522       | 0.7360148938462162  |
+| 4         | 0.7313524692910172  |
+| 194       | 0.703615354896337   |
+| 485       | 0.6935168992024947  |
+| 264       | 0.6872919597300204  |
+| 592       | 0.6848579572178694  |
+| 556       | 0.6764274313312635  |
+| 699       | 0.6720846304939068  |
+| 653       | 0.6691525617111412  |
+| 470       | 0.666297324451059   |
+| 515       | 0.6607325209446326  |
+| 727       | 0.6607196381449061  |
+
+[Back to Top](#table-of-contents)
 
 # Voice
 
-Filler
+In these LDSPs, one sentence is written in the active voice, while the other is written in the passive voice.
+
+_Example_
+- The client promptly implemented the changes.
+- The changes were promptly implemented by the client.
+
+## Mutual Information Values with Analysis Overlays
+<img src="results/voice/combined_analysis/combined_graph_rfe.png">
+
+## Top T-Test P-Values 
+<img src="results/voice/t_test_analysis/top_4_p_values.png">
+
+## Bottom T-Test P-Values 
+<img src="results/voice/t_test_analysis/bottom_4_p_values.png">
+
+## Top EDI Scores
+
+| Dimension | EDI Score           |
+|-----------|---------------------|
+| 766       | 0.8175025351832115  |
+| 534       | 0.8067914650773741  |
+| 653       | 0.7803131940043116  |
+| 27        | 0.7587026622710341  |
+| 523       | 0.7496311376013647  |
+| 95        | 0.7495392985854737  |
+| 179       | 0.7479354118086403  |
+| 750       | 0.7468663659524204  |
+| 111       | 0.7292216472904625  |
+| 286       | 0.7242026647373507  |
+| 308       | 0.7201711372775492  |
+| 378       | 0.7105619713613736  |
+| 693       | 0.7051742809498748  |
+| 158       | 0.7028318882711313  |
+| 131       | 0.6997369145900841  |
+| 486       | 0.6753551967248502  |
+| 767       | 0.6728859151973205  |
+| 70        | 0.6693736010054878  |
+| 90        | 0.6588446117150711  |
+| 669       | 0.6551369533589351  |
+
+[Back to Top](#table-of-contents)
 
 
 
