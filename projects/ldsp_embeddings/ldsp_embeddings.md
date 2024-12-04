@@ -22,7 +22,7 @@ _Example_
 - He worked incredibly long hours this week.
 
 ## Mutual Information Values with Analysis Overlays
-<img src="results/control/combined_analysis/combined_graph_rfe.png">
+<img src="results/control/combined_analysis/combined_graph.png">
 
 ## Top T-Test P-Values 
 <img src="results/control/t_test_analysis/top_4_p_values.png">
@@ -66,7 +66,7 @@ _Example_
 - A mountain is high
 
 ## Mutual Information Values with Analysis Overlays
-<img src="results/definiteness/combined_analysis/combined_graph_rfe.png">
+<img src="results/definiteness/combined_analysis/combined_graph.png">
 
 ## Top T-Test P-Values 
 <img src="results/definiteness/t_test_analysis/top_4_p_values.png">
@@ -113,7 +113,7 @@ _Example_
 - He might have finished the project.
 
 ## Mutual Information Values with Analysis Overlays
-<img src="results/factuality/combined_analysis/combined_graph_rfe.png">
+<img src="results/factuality/combined_analysis/combined_graph.png">
 
 ## Top T-Test P-Values 
 <img src="results/factuality/t_test_analysis/top_4_p_values.png">
@@ -157,7 +157,7 @@ _Example_
 - The temperature is very comfortable.
 
 ## Mutual Information Values with Analysis Overlays
-<img src="results/intensifier/combined_analysis/combined_graph_rfe.png">
+<img src="results/intensifier/combined_analysis/combined_graph.png">
 
 ## Top T-Test P-Values 
 <img src="results/intensifier/t_test_analysis/top_4_p_values.png">
@@ -201,7 +201,7 @@ _Example_
 - The movie is not interesting.
 
 ## Mutual Information Values with Analysis Overlays
-<img src="results/negation/combined_analysis/combined_graph_rfe.png">
+<img src="results/negation/combined_analysis/combined_graph.png">
 
 ## Top T-Test P-Values 
 <img src="results/negation/t_test_analysis/top_4_p_values.png">
@@ -245,7 +245,7 @@ _Example_
 - The environment is detrimental.
 
 ## Mutual Information Values with Analysis Overlays
-<img src="results/polarity/combined_analysis/combined_graph_rfe.png">
+<img src="results/polarity/combined_analysis/combined_graph.png">
 
 ## Top T-Test P-Values 
 <img src="results/polarity/t_test_analysis/top_4_p_values.png">
@@ -289,7 +289,7 @@ _Example_
 - There are countless stars in the sky.
 
 ## Mutual Information Values with Analysis Overlays
-<img src="results/quantity/combined_analysis/combined_graph_rfe.png">
+<img src="results/quantity/combined_analysis/combined_graph.png">
 
 ## Top T-Test P-Values 
 <img src="results/quantity/t_test_analysis/top_4_p_values.png">
@@ -333,7 +333,7 @@ _Example_
 - The film was distributed worldwide by the studio.
 
 ## Mutual Information Values with Analysis Overlays
-<img src="results/subjectObject/combined_analysis/combined_graph_rfe.png">
+<img src="results/subjectObject/combined_analysis/combined_graph.png">
 
 ## Top T-Test P-Values 
 <img src="results/subjectObject/t_test_analysis/top_4_p_values.png">
@@ -377,7 +377,7 @@ _Example_
 - The outlook was hopeful.
 
 ## Mutual Information Values with Analysis Overlays
-<img src="results/synonym/combined_analysis/combined_graph_rfe.png">
+<img src="results/synonym/combined_analysis/combined_graph.png">
 
 ## Top T-Test P-Values 
 <img src="results/synonym/t_test_analysis/top_4_p_values.png">
@@ -421,7 +421,7 @@ _Example_
 - The phone rang loudly.
 
 ## Mutual Information Values with Analysis Overlays
-<img src="results/tense/combined_analysis/combined_graph_rfe.png">
+<img src="results/tense/combined_analysis/combined_graph.png">
 
 ## Top T-Test P-Values 
 <img src="results/tense/t_test_analysis/top_4_p_values.png">
@@ -465,7 +465,7 @@ _Example_
 - The changes were promptly implemented by the client.
 
 ## Mutual Information Values with Analysis Overlays
-<img src="results/voice/combined_analysis/combined_graph_rfe.png">
+<img src="results/voice/combined_analysis/combined_graph.png">
 
 ## Top T-Test P-Values 
 <img src="results/voice/t_test_analysis/top_4_p_values.png">
