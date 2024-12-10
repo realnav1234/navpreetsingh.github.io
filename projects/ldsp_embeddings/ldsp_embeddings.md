@@ -104,8 +104,6 @@ _Example_
 
 # Factuality
 
-_Factu involves the use of definite or indefinite articles within a sentence, such as _the_ compared to  _a_, respectively.
-
 _Factuality_ refers to the degree of truth implied by the structure of the sentence.
 
 _Example_
