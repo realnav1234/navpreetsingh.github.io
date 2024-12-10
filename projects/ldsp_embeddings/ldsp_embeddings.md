@@ -8,7 +8,6 @@
 - [Negation](#negation)
 - [Polarity](#polarity)
 - [Quantity](#quantity)
-- [Subject-Object](#subject-object)
 - [Synonym](#synonym)
 - [Tense](#tense)
 - [Voice](#voice)
@@ -319,50 +318,6 @@ _Example_
 | 316       | 0.8206378535244789  |
 | 411       | 0.7563490247374727  |
 | 649       | 0.7336960154389429  |
-
-[Back to Top](#table-of-contents)
-
-# Subject-Object
-
-These LDSPs contain a sentence constructed in the Subjet-Verb-Object order and a sentence constructed in the Object-Verb-Subject order, with an entity executing the verb being the subject.
-
-_Example_
-- The studio distributed the film worldwide.
-- The film was distributed worldwide by the studio.
-
-## Mutual Information Values with Analysis Overlays
-<img src="results/subjectObject/combined_analysis/combined_graph.png">
-
-## Top T-Test P-Values 
-<img src="results/subjectObject/t_test_analysis/top_4_p_values.png">
-
-## Bottom T-Test P-Values 
-<img src="results/subjectObject/t_test_analysis/bottom_4_p_values.png">
-
-## Top EDI Scores
-
-| Dimension | EDI Score           |
-|-----------|---------------------|
-| 534       | 0.9486107821007524  |
-| 111       | 0.9338207659784069  |
-| 653       | 0.9260406793608018  |
-| 523       | 0.9159906853046482  |
-| 161       | 0.9145810508245302  |
-| 27        | 0.8992371208162628  |
-| 750       | 0.8950498318366757  |
-| 359       | 0.888200307907747   |
-| 187       | 0.88673337232881    |
-| 257       | 0.8844058338891456  |
-| 767       | 0.8829835298576147  |
-| 693       | 0.8815363226127324  |
-| 725       | 0.8802644739646925  |
-| 594       | 0.8752531601991187  |
-| 747       | 0.8724170185318775  |
-| 16        | 0.8620084529085412  |
-| 90        | 0.8473333187452997  |
-| 757       | 0.7949175596821839  |
-| 378       | 0.7347588881951416  |
-| 766       | 0.7346127918107949  |
 
 [Back to Top](#table-of-contents)
 
