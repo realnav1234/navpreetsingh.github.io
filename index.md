@@ -7,7 +7,7 @@ title: Navpreet Singh's Portfolio
 
 Hi! My name is Navpreet Singh and I am a third-year undergraduate at MIT studying Artificial Intelligence and Decision Making.
 
-My journey so far has been a thrilling blend of exploring Natural Language Processing at MIT's CSAIL, and delving into the field of Robotics through both my academic coursework and a hands-on internship at Lockheed Martin. As a developer, I've gained practical experience with full-stack development and automation during my internships at HelixVM and Sunny Day Fund. Finally, as an educator, I have taught Computer Science and AI courses in Jerusalem and Amman, while continuing my role as an Executive Director and Co-Founder of Future for Young Scientists.
+My journey so far has been a thrilling blend of exploring Natural Language Processing at MIT's CSAIL, and delving into the field of Robotics through both my academic coursework and a hands-on internship at Sikorsky Helicopters. As a developer, I've gained practical experience with full-stack development and automation during my internships at HelixVM and Sunny Day Fund. Finally, as an educator, I have taught Computer Science and AI courses in Jerusalem and Amman, while continuing my role as an Executive Director and Co-Founder of Future for Young Scientists.
 
 These experiences have not only honed my skills but also fueled my passion for AI, Computer Science, and its potential to revolutionize the way we interact with technology.
 
@@ -104,7 +104,7 @@ Developed Electronic Health Record (EHR) **automation bots** deployed using Jenk
 
 ### <a href="https://www.lockheedmartin.com/en-us/products/sikorsky-black-hawk-helicopter.html" target="_blank">AI/ML Engineering Intern</a>
 
-**Lockheed Martin - Sikorsky Aircraft**
+**Sikorsky Helicopters**
 
 _stratford, ct; may 2023 - august 2023_
 
@@ -172,7 +172,7 @@ Developed and delivered a comprehensive AI curriculum to 150+ students at presti
 
 **Middle East Entrepreneurs of Tomorrow**
 
-_jerusalem, israel; july 2022 - august 2022_
+_jerusalem; july 2022 - august 2022_
 
 Developed 4-week **Python**-based Computer Science curriculum to introduce programming concepts to high school freshmen.
 
